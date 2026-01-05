@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" width="530" height="250" src="https://github-readme-stats.vercel.app/api?username=bigyandevkota&show_icons=true&locale=en" alt="bigyandevkota" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bigyandevkota&" alt="bigyandevkota" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=bigyandevkota" alt="bigyandevkota" /></p>
